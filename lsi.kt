@@ -1,4 +1,4 @@
-﻿License type: BUSINESS
+/*﻿License type: BUSINESS
 Product: Construct 2
 Licensed to: #VirusCX
 Email: 18xxvirusxx18@gmail.com
@@ -7,3 +7,4 @@ Timestamp: 1629308191
 Hash: 93AE0302AE862D02DC46936206AA39E5DA0D7FB273C8E20
 
 This is PRIVATE license. Please TURN OFF "UPDATE CHECKING" in C2 preferences BEFORE USE!!!
+*/
